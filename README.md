@@ -27,7 +27,7 @@ The provided dataset was made available for illustrative purposes through Udemy.
 
 ### Article Lengths
 
-![png](/images/articlelength.png)
+![jpg](/images/articlelength.jpg)
 
 # Statistical Modeling 
 ## Latent Dirichlet Allocation
@@ -77,7 +77,7 @@ The provided dataset was made available for illustrative purposes through Udemy.
 * Cluster 5:'Other'
 * Cluster 6:'Education'
 
-![png](/images/LDA.png)
+![jpg](/images/LDA.jpg)
 
 ## Non-Negative Matrix Factorization
 
@@ -127,7 +127,7 @@ The provided dataset was made available for illustrative purposes through Udemy.
 * Cluster 5:'Lifestyle'
 * Cluster 6:'Education'
 
-![png](/images/NMF.png)
+![jpg](/images/NMF.jpg)
 
 ### Results, Limitations, Future Work
 
