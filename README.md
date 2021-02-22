@@ -150,7 +150,7 @@ Additional analysis, notes and file sources can be found on Udemy's website.
 
 * Course Name: NLP - Natural Language Processing with Python by Jose Portilla
 
-##### Repository Structure:
+##### Repository Structure
 
 ```
 
